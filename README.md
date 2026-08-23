@@ -7,7 +7,7 @@ Short history, picture of the most recent design, when it was designed,
 ## MPU302
 ## [Tiny68K](https://github.com/Plasmode/Tiny68K)
 ## [T68KRC](https://github.com/Plasmode/T68KRC)
-## T68KMB
+## [T68KMB](https://github.com/Plasmode/T68KMB)
 ## [P90CE201SBC](https://github.com/Plasmode/P90CE201SBC)
 ## [Kuno](https://github.com/Plasmode/Kuno)
 ## [MB012](https://github.com/Plasmode/MB012)
