@@ -17,6 +17,6 @@ Short history, picture of the most recent design, when it was designed,
 ## [BB68008](https://github.com/Plasmode/BB68008)
 ## GRC-68K
 ## 3V68K
-## Tiny040
-## SBC68340
-## 68000-tester
+## [Tiny040](https://github.com/Plasmode/Tiny040)
+## [SBC68340](https://github.com/Plasmode/SBC68340)
+## [68000-tester](https://github.com/Plasmode/68000-Tester)
