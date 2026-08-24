@@ -3,8 +3,9 @@ Top page of my 68K designs list in my GitHub.  The designs are listed chronologi
 
 Short history, picture of the most recent design, when it was designed, 
 ## [Tiny020](https://github.com/Plasmode/Tiny020)
-Circa 2017.  Based on Motorola Ap Note AN1015.  Originally posted in Easy68K forum, but the forum doesn't existed anymore.  Brief discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&goto=2196&&srch=tiny020#msg_2196)
+Circa 2017.  Based on Motorola Ap Note AN1015.  Originally posted in Easy68K forum, but that forum doesn't exist anymore.  Brief discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&goto=2196&&srch=tiny020#msg_2196)
 ## [Tiny302](https://github.com/Plasmode/Tiny302)
+Circa 2017.  Exploratory design first discussed in Easy68K forum, but that forum doesn't exist anymore.  Brief discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&goto=2196&&srch=tiny020#msg_2196)
 ## MPU302
 Circa 2017. repurpose the ADC SPX-MPU commercial board. discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=201)
 ## [Tiny68K](https://github.com/Plasmode/Tiny68K)
