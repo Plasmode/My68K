@@ -9,6 +9,7 @@ Circa 2017.  Exploratory design first discussed in Easy68K forum, but that forum
 ## MPU302
 Circa 2017. repurpose the ADC SPX-MPU commercial board. discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=201)
 ## [Tiny68K](https://github.com/Plasmode/Tiny68K)
+Circa 2017.  Inexpensive SBC in 100mmX100mm form factor.  Discussed in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=222)
 ## [T68KRC](https://github.com/Plasmode/T68KRC)
 ## [T68KMB](https://github.com/Plasmode/T68KMB)
 ## [P90CE201SBC](https://github.com/Plasmode/P90CE201SBC)
