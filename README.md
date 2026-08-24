@@ -14,6 +14,7 @@ ___
 ### [Tiny68K](https://github.com/Plasmode/Tiny68K)
 Circa 2017.  Inexpensive SBC in 100mmX100mm form factor.  Discussed in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=222)
 ![tiny68k](https://github.com/Plasmode/Tiny68K/blob/main/tiny68k_rev2_topview.jpg{width=100 height=100})
+<img src="https://github.com/Plasmode/Tiny68K/blob/main/tiny68k_rev2_topview.jpg" alt="Responsive Image" style="width:50%; height:auto;">
 ___
 ### [T68KRC](https://github.com/Plasmode/T68KRC)
 ### [T68KMB](https://github.com/Plasmode/T68KMB)
