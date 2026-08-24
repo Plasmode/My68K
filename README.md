@@ -5,6 +5,7 @@ Short history, picture of the most recent design, when it was designed,
 ## [Tiny020](https://github.com/Plasmode/Tiny020)
 ## [Tiny302](https://github.com/Plasmode/Tiny302)
 ## MPU302
+Circa 2017. repurpose the ADC SPX-MPU commercial board. discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=201)
 ## [Tiny68K](https://github.com/Plasmode/Tiny68K)
 ## [T68KRC](https://github.com/Plasmode/T68KRC)
 ## [T68KMB](https://github.com/Plasmode/T68KMB)
