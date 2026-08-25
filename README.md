@@ -33,6 +33,11 @@ Circa 2018.  Tiny68K for RC2014 bus with 2 meg DRAM instead of 16Meg of Tiny68K.
 
 ___
 ### [T68KMB](https://github.com/Plasmode/T68KMB)
+Circa 2023.  T68KMB is T68KRC with 3 RC2014 expansion busses added. It is software compatible with T68KRC.  Discusson in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/SlT-y728idA/m/LvbbI6MlAAAJ)
+
+<img src="https://github.com/Plasmode/T68KMB/blob/main/t68kmb_rev0_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
 ### [P90CE201SBC](https://github.com/Plasmode/P90CE201SBC)
 ### [Kuno](https://github.com/Plasmode/Kuno)
 ### [MB012](https://github.com/Plasmode/MB012)
@@ -43,5 +48,5 @@ ___
 ### GRC-68K
 ### 3V68K
 ### [Tiny040](https://github.com/Plasmode/Tiny040)
-## [SBC68340](https://github.com/Plasmode/SBC68340)
-## [68000-tester](https://github.com/Plasmode/68000-Tester)
+### [SBC68340](https://github.com/Plasmode/SBC68340)
+### [68000-tester](https://github.com/Plasmode/68000-Tester)
