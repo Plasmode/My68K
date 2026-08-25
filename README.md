@@ -52,6 +52,11 @@ ___
 ### [BB68008](https://github.com/Plasmode/BB68008)
 ### GRC-68K
 ### 3V68K
+Circa 2024. 3V 68000 mezzanine board for EPM240 dev board.  Discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&goto=10787)
+
+<img src="https://github.com/Plasmode/3V68K/blob/main/EPM240_dev_board%20and%2068K_mezzanine.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
 ### [Tiny040](https://github.com/Plasmode/Tiny040)
 ### [SBC68340](https://github.com/Plasmode/SBC68340)
 ### [68000-tester](https://github.com/Plasmode/68000-Tester)
