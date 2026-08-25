@@ -33,9 +33,9 @@ Circa 2018.  Tiny68K for RC2014 bus with 2 meg DRAM instead of 16Meg of Tiny68K.
 
 ___
 ### [P90CE201SBC](https://github.com/Plasmode/P90CE201SBC)
-Circa 2019.  P90CE201 is a 68000 clone with integrated I/O that includes two I2C buses.  Discussed in Google [retro-comp](https://groups.google.com/g/retro-comp/c/dsiaP-PoPsM/m/D0e2fpzQAAAJ)
+Circa 2019.  P90CE201 is a 68000 clone with integrated I/O that includes two I2C buses.  Discussed in [Google retro-comp](https://groups.google.com/g/retro-comp/c/dsiaP-PoPsM/m/D0e2fpzQAAAJ)
 
-<img src="https://github.com/Plasmode/P90CE201SBC/blob/main/P90MB/Rev1/P90MB_rev1_topview_game_of_life_gosper.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+<img src="https://github.com/Plasmode/P90CE201SBC/blob/main/P90MB/P90MB_rev1_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [T68KMB](https://github.com/Plasmode/T68KMB)
