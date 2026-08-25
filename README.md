@@ -16,6 +16,9 @@ Circa 2017.  Exploratory design first discussed in Easy68K forum, but that forum
 ___
 ### MPU302
 Circa 2017. repurpose the ADC SPX-MPU commercial board. discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=201)
+More discussion in [Hackaday](https://hackaday.io/project/28504-reverse-engineering-soneplex-spx-mpu-sbc)
+<img src="https://github.com/Plasmode/MPU302/blob/master/MPU302_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
 ___
 ### [Tiny68K](https://github.com/Plasmode/Tiny68K)
 Circa 2017.  Inexpensive SBC in 100mmX100mm form factor.  Discussed in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=222)
