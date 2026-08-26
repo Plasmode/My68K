@@ -37,7 +37,7 @@ Circa 2019.  P90CE201 is a 68000 clone with integrated I/O that includes two I2C
 <img src="https://github.com/Plasmode/P90CE201SBC/blob/main/P90MB/P90MB_rev1_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### [G8PP-68008](https://github.com/Plasmode/G8PP/tree/master/MC68008/Rev0
+### [G8PP-68008](https://github.com/Plasmode/G8PP/tree/master/MC68008/Rev0)
 Circa 2019.  Generic 8-bit Processor Prototype with 68008.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=348&goto=5707)
 
 <img src="https://github.com/Plasmode/G8PP/blob/master/MC68008/Rev0/g8ppbase_rev0_68k8_rev0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
