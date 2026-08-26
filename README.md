@@ -37,6 +37,12 @@ Circa 2019.  P90CE201 is a 68000 clone with integrated I/O that includes two I2C
 <img src="https://github.com/Plasmode/P90CE201SBC/blob/main/P90MB/P90MB_rev1_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
+### G8PP-68008
+Circa 2019.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=348&goto=5707)
+
+<img src="https://github.com/Plasmode/G8PP/blob/master/MC68008/Rev0/g8ppbase_rev0_68k8_rev0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
 ### [T68KMB](https://github.com/Plasmode/T68KMB)
 Circa 2023.  T68KMB is T68KRC with 3 RC2014 expansion busses added. It is software compatible with T68KRC.  Discusson in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/SlT-y728idA/m/LvbbI6MlAAAJ)
 
@@ -47,7 +53,7 @@ ___
 ### [Kuno](https://github.com/Plasmode/Kuno)
 ### [MB012](https://github.com/Plasmode/MB012)
 ### [MB020](https://github.com/Plasmode/MB020)
-### G8PP-68008
+
 ### [CB0030](https://github.com/Plasmode/CB030)
 ### [BB68008](https://github.com/Plasmode/BB68008)
 ### GRC-68K
