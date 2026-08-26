@@ -16,6 +16,7 @@ ___
 ### MPU302
 Circa 2017. repurpose the ADC SPX-MPU commercial board. discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=201)
 More discussion in [Hackaday](https://hackaday.io/project/28504-reverse-engineering-soneplex-spx-mpu-sbc)
+
 <img src="https://github.com/Plasmode/MPU302/blob/master/MPU302_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
