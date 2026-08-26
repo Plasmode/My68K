@@ -42,7 +42,7 @@ Circa 2019.  Generic 8-bit Processor Prototype with 68008.  Discussion in [Retro
 
 <img src="https://github.com/Plasmode/G8PP/blob/master/MC68008/Rev0/g8ppbase_rev0_68k8_rev0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
-___)
+___
 ### [T68KMB](https://github.com/Plasmode/T68KMB)
 Circa 2023.  T68KMB is T68KRC with 3 RC2014 expansion busses added. It is software compatible with T68KRC.  Discusson in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/SlT-y728idA/m/LvbbI6MlAAAJ)
 
