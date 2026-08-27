@@ -84,4 +84,9 @@ Circa 2024.  Tiny040 is an exploratory 3.3V 68040 SBC on 100x100mm pc board.  Di
 
 ___
 ### [SBC68340](https://github.com/Plasmode/SBC68340)
+Circa 2025.  SBC68340 is a single board computer based on MC68340.  Discussion in [VCFED forum](https://forum.vcfed.org/index.php?threads/a-mc68340-homebrew.1252181/)
+
+<img src="https://github.com/Plasmode/SBC68340/blob/main/SBC68340Rev0/SBC68340_rev0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
 ### [68000-tester](https://github.com/Plasmode/68000-Tester)
