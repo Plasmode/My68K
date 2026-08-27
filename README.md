@@ -44,6 +44,12 @@ Circa 2019.  Generic 8-bit Processor Prototype with 68008.  Discussion in [Retro
 <img src="https://github.com/Plasmode/G8PP/blob/master/MC68008/Rev0/g8ppbase_rev0_68k8_rev0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
+### [Kuno](https://github.com/Plasmode/Kuno)
+Circa 2019.  Kuno is a P90CE201 SBC for Arduino Mega Enclosure.  Discussion in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/dsiaP-PoPsM)
+
+<img src="https://github.com/Plasmode/Kuno/blob/main/kuno_p90ce201_rev0_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
 ### [CB030](https://github.com/Plasmode/CB030)
 Circa 2020.  68030 SBC.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=442)
 
@@ -54,12 +60,6 @@ ___
 Circa 2023.  T68KMB is T68KRC with 3 RC2014 expansion busses added. It is software compatible with T68KRC.  Discusson in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/SlT-y728idA/m/LvbbI6MlAAAJ)
 
 <img src="https://github.com/Plasmode/T68KMB/blob/main/t68kmb_rev0_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
-
-___
-### [Kuno](https://github.com/Plasmode/Kuno)
-Circa 2019.  Kuno is a P90CE201 SBC for Arduino Mega Enclosure.  Discussion in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/dsiaP-PoPsM)
-
-<img src="https://github.com/Plasmode/Kuno/blob/main/kuno_p90ce201_rev0_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [MB012](https://github.com/Plasmode/MB012)
