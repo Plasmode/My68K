@@ -90,3 +90,8 @@ Circa 2025.  SBC68340 is a single board computer based on MC68340.  Discussion i
 
 ___
 ### [68000-tester](https://github.com/Plasmode/68000-Tester)
+Circa 2026.  This is a simple tester to check out 68000 in DIP64 package.  Discussion in [VCFED forum](https://forum.vcfed.org/index.php?threads/a-simple-68000-tester.1256068/)
+
+<img src="https://github.com/Plasmode/68000-Tester/blob/main/Simple%2068000%20Tester.jpeg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
