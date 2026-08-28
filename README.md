@@ -63,13 +63,18 @@ Circa 2023.  T68KMB is T68KRC with 3 RC2014 expansion busses added. It is softwa
 
 ___
 ### [MB012](https://github.com/Plasmode/MB012)
-### [MB020](https://github.com/Plasmode/MB020)
+Circa 2020.  MB012 is derived from Tiny68K where the 68000 DIP is replaced with 68012 PGA package. The space thus saved is used for 2 I/O expansion connectors.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=222&goto=7128&#msg_7128)
 
+<img src="https://github.com/Plasmode/MB012/blob/main/mb012_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
+### [MB020](https://github.com/Plasmode/MB020)
+<img src="" alt="Responsive Image" style="width:30%; height:auto;">
 ___
 
 ### [BB68008](https://github.com/Plasmode/BB68008)
 ### GRC-68K
-
+<img src="" alt="Responsive Image" style="width:30%; height:auto;">
 ___
 ### [3V68K](https://github.com/Plasmode/3V68K)
 Circa 2024. 3V 68000 mezzanine board for EPM240 dev board.  Discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&goto=10787)
