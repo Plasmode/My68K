@@ -69,10 +69,8 @@ Circa 2021. MB020 is a 4“x4” 68020-based motherboard with 3 RC2014 expansion
 <img src="https://github.com/Plasmode/MB020/blob/main/MB020_rev0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-
-### [BB68008](https://github.com/Plasmode/BB68008)
 ### GRC-68K
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
+
 
 ___
 ### [T68KMB](https://github.com/Plasmode/T68KMB)
@@ -85,6 +83,12 @@ ___
 Circa 2024. 3V 68000 mezzanine board for EPM240 dev board.  Discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&goto=10787)
 
 <img src="https://github.com/Plasmode/3V68K/blob/main/EPM240_dev_board%20and%2068K_mezzanine.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
+### [BB68008](https://github.com/Plasmode/BB68008)
+Circa 2024.  Barebones 68008, BB68008, is a simple 68008 computer based on 3 chips, 68008, RAM, and 22V10.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=797) and in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/u-vvOCOEhJE).
+
+<img src="https://github.com/Plasmode/BB68008/blob/main/BB68008Rev0/bb68008_rev0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [Tiny040](https://github.com/Plasmode/Tiny040)
