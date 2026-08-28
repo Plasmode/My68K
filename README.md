@@ -1,5 +1,5 @@
 # My68K, Index of my 68K designs on GitHub
-Top page of my 68K designs list in my GitHub.  The designs are listed chronologically with links to respective GitHub repositories.
+Top page of my 68K designs that are listed in my GitHub.  The designs are listed chronologically with links to respective GitHub repositories.
 
 ### [Tiny020](https://github.com/Plasmode/Tiny020)
 Circa 2017.  Based on Motorola Ap Note AN1015.  Originally posted in Easy68K forum, but that forum doesn't exist anymore.  Brief discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&goto=2196&&srch=tiny020#msg_2196)
@@ -58,23 +58,21 @@ Circa 2020.  68030 SBC.  Discussion in [Retrobrew computers forum](https://www.r
 
 ___
 ### [MB012](https://github.com/Plasmode/MB012)
-Circa 2020.  MB012 is derived from Tiny68K where the 68000 DIP is replaced with 68012 PGA package. The space thus saved is used for 2 I/O expansion connectors.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=222&goto=7128&#msg_7128)
+Circa 2020.  MB012 is derived from Tiny68K where the 68000 DIP is replaced with 68012 PGA package. The space thus saved is used for 2 I/O expansion connectors.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=222).
 
 <img src="https://github.com/Plasmode/MB012/blob/main/mb012_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [MB020](https://github.com/Plasmode/MB020)
-Circa 2021. MB020 is a 4“x4” 68020-based motherboard with 3 RC2014 expansion slots. It allows RC2014 users to reuse their existing hardware to explore the 68020 processor. Discussion about MB020 can be found [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/Zns6_-XWTfc/m/l_x3S8bfAQAJ).
+Circa 2021. MB020 is a 4“x4” 68020-based motherboard with 3 RC2014 expansion slots. It allows RC2014 users to reuse their existing hardware to explore the 68020 processor. Discussion about MB020 can be found [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/Zns6_-XWTfc/).
 
 <img src="https://github.com/Plasmode/MB020/blob/main/MB020_rev0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### GRC-68K
-
-
+### GRC-68K  <- to be tested
 ___
 ### [T68KMB](https://github.com/Plasmode/T68KMB)
-Circa 2023.  T68KMB is T68KRC with 3 RC2014 expansion busses added. It is software compatible with T68KRC.  Discusson in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/SlT-y728idA/m/LvbbI6MlAAAJ)
+Circa 2023.  T68KMB is T68KRC with 3 RC2014 expansion busses added. It is software compatible with T68KRC.  Discusson in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/SlT-y728idA/)
 
 <img src="https://github.com/Plasmode/T68KMB/blob/main/t68kmb_rev0_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
