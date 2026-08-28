@@ -58,7 +58,7 @@ Circa 2020.  68030 SBC.  Discussion in [Retrobrew computers forum](https://www.r
 
 ___
 ### [MB012](https://github.com/Plasmode/MB012)
-Circa 2020.  MB012 is derived from Tiny68K where the 68000 DIP is replaced with 68012 PGA package. The space thus saved is used for 2 I/O expansion connectors.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=222).
+Circa 2020.  MB012 is derived from Tiny68K where the 68000 DIP is replaced with 68012 PGA package. The space thus saved is used for 2 I/O expansion connectors.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=222&goto=7128&#msg_7128).
 
 <img src="https://github.com/Plasmode/MB012/blob/main/mb012_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
