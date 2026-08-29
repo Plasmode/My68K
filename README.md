@@ -77,7 +77,7 @@ Circa 2023.  T68KMB is T68KRC with 3 RC2014 expansion busses added. It is softwa
 
 ___
 ### [3V68K](https://github.com/Plasmode/3V68K)
-Circa 2024. 3V 68000 mezzanine board for EPM240 dev board.  Discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&goto=10787).  Design files originally posted on [retrobrewcomputers]().
+Circa 2024. 3V 68000 mezzanine board for EPM240 dev board.  Discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&goto=10787). 
 
 <img src="https://github.com/Plasmode/3V68K/blob/main/EPM240_dev_board%20and%2068K_mezzanine.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
